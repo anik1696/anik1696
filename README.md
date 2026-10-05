@@ -67,12 +67,14 @@ I am a Software Engineering undergraduate with hands-on experience in full-stack
 | | |
 |---|---|
 | **Email** | [aniksahreyar@gmail.com](mailto:aniksahreyar@gmail.com) |
+| **Portfolio** | [anik1696.github.io/Sahreyar-s-Portfolio](https://anik1696.github.io/Sahreyar-s-Portfolio/) |
 | **LinkedIn** | [sahreyar-ahmed-aa1402232](https://www.linkedin.com/in/sahreyar-ahmed-aa1402232) |
 | **Facebook** | [sahreyar.ahmed2003](https://www.facebook.com/sahreyar.ahmed2003) |
 | **Location** | Sylhet, Bangladesh |
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://anik1696.github.io/Sahreyar-s-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aniksahreyar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahreyar-ahmed-aa1402232)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sahreyar.ahmed2003)
