@@ -11,7 +11,7 @@
 
 ## About
 
-I am a Software Engineering undergraduate with hands-on experience in full-stack web development. I work primarily with JavaScript-based stacks and have a strong foundation in object-oriented programming. I am currently focused on building production-ready web applications and deepening my expertise in modern frontend and backend technologies.
+Software Engineering undergraduate from Sylhet, Bangladesh. I work with JavaScript-based stacks and have built projects across web development, system design, and AI tooling. Currently focused on full-stack development and learning how modern production systems are structured.
 
 ---
 
@@ -19,9 +19,9 @@ I am a Software Engineering undergraduate with hands-on experience in full-stack
 
 - Pursuing **BSc. in Software Engineering**
 - Learning **Full Stack Web Development** end-to-end
-- Building projects with **React**, **Next.js**, and **TypeScript**
+- Exploring **Next.js** and modern React patterns
+- Working on **AutoCare Hub** — a vehicle service booking system
 - Strengthening fundamentals in **Data Structures & Algorithms**
-- Open to internship and collaboration opportunities
 
 ---
 
@@ -42,9 +42,12 @@ I am a Software Engineering undergraduate with hands-on experience in full-stack
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-**Tools**
+**Backend & Tools**
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -56,7 +59,10 @@ I am a Software Engineering undergraduate with hands-on experience in full-stack
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=anik1696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anik1696&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=anik1696&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -78,7 +84,6 @@ I am a Software Engineering undergraduate with hands-on experience in full-stack
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aniksahreyar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahreyar-ahmed-aa1402232)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sahreyar.ahmed2003)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anik1696)
 
 </div>
 
