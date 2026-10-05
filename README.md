@@ -11,13 +11,14 @@
 
 ## About
 
-I am a Software Engineering undergraduate with hands-on experience in full-stack web development. I work primarily with JavaScript-based stacks and have a strong foundation in object-oriented programming. I am currently focused on building production-ready applications and deepening my expertise in modern web technologies.
+I am a Software Engineering undergraduate with hands-on experience in full-stack web development. I work primarily with JavaScript-based stacks and have a strong foundation in object-oriented programming. I am currently focused on building production-ready web applications and deepening my expertise in modern frontend and backend technologies.
 
 ---
 
 ## Currently
 
 - Pursuing **BSc. in Software Engineering**
+- Learning **Full Stack Web Development** end-to-end
 - Building projects with **React**, **Next.js**, and **TypeScript**
 - Strengthening fundamentals in **Data Structures & Algorithms**
 - Open to internship and collaboration opportunities
